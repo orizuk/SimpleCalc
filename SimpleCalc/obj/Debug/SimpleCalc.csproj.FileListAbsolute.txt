@@ -1,0 +1,81 @@
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.AssemblyReference.cache
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Properties.Resources.resources
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.GenerateResource.cache
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.CalcForm.resources
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\nunit.engine.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\nunit.engine.api.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\nunit.engine.core.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\nunit.framework.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CopyComplete
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.AssemblyReference.cache
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.calcForm.resources
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Properties.Resources.resources
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.GenerateResource.cache
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\nunit.engine.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\nunit.engine.api.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\nunit.engine.core.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\bin\Debug\nunit.framework.dll
+C:\Users\Ori Zukerman\source\repos\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CopyComplete
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\NUnit3.TestAdapter.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\NUnit3.TestAdapter.pdb
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\nunit.engine.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\nunit.engine.api.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\nunit.engine.core.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\testcentric.engine.metadata.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\temp\SimpleCalc\SimpleCalc\bin\Debug\nunit.framework.dll
+C:\temp\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.AssemblyReference.cache
+C:\temp\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.SuggestedBindingRedirects.cache
+C:\temp\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.calcForm.resources
+C:\temp\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Properties.Resources.resources
+C:\temp\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.GenerateResource.cache
+C:\temp\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\temp\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CopyComplete
+C:\temp\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\temp\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb

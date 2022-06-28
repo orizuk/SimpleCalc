@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "XGErwOIF0vP3kOEGp8V9ZBbhXOmEDmnjqwcRr/2xX3vMWmVNSGCcdoG5MH3ET/2pxohu0MSvznolKeNRClmWLQ==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\SimpleCalc\\SimpleCalc\\SimpleCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\microsoft.codecoverage\\17.2.0\\microsoft.codecoverage.17.2.0.nupkg.sha512",
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\microsoft.net.test.sdk\\17.2.0\\microsoft.net.test.sdk.17.2.0.nupkg.sha512",
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.4\\microsoft.netcore.platforms.6.0.4.nupkg.sha512",
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\microsoft.unittestframework.extensions\\2.0.0\\microsoft.unittestframework.extensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\mstest.testadapter\\2.2.10\\mstest.testadapter.2.2.10.nupkg.sha512",
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512",
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\nunit.consolerunner\\3.15.0\\nunit.consolerunner.3.15.0.nupkg.sha512",
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.9.0\\nunit.extension.nunitv2driver.3.9.0.nupkg.sha512",
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Ori Zukerman\\.nuget\\packages\\system.diagnostics.contracts\\4.0.1\\system.diagnostics.contracts.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
